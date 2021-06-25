@@ -1,5 +1,13 @@
 # SQLSERVER-SNIPPET
 
+### LINK
+
+[SHORTCUT] (https://manhng.com/blog/sql-query/)
+
+[SYNONYM] (https://www.sqlservertutorial.net/sql-server-basics/sql-server-synonym/)
+
+[STORE PROCEDURE] (https://comdy.vn/sql-server/stored-procedure-trong-sql-server/)
+
 ### PARALEL
 ```sql
 OPTION(USE HINT('ENABLE_PARALLEL_PLAN_PREFERENCE'))
